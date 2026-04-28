@@ -76,3 +76,4 @@ Contributions are welcome. You can improve this project by adding new features o
 📄 License
 
 This project is open-source and available for educational use.
+
